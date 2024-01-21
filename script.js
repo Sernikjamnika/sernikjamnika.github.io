@@ -7,7 +7,7 @@ var playerList = [
     ["Nilo", false, 0, 2],
     ["Lilith", false, 0, 3],
     ["Squick", false, 0, 4],
-    ["x", false, 0, 5]
+    ["Cali", false, 0, 5]
 ];
 
 function closeAddPlayerAlert()
