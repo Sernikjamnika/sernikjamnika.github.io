@@ -1,1 +1,1 @@
-# sernikjamnika.github.io
+Hosting for Gloomhaven Initiative Counter by potwr
